@@ -8,7 +8,7 @@ I am interested in all things about `Bitcoin`, programming and data-science. My 
 I am currently working for [Trezor](https://www.trezor.io) as a firmware developer on the [trezor-firmware repository](https://github.com/trezor/trezor-firmware).
 
 For the purposes of `firmware` repository, I also created two standalone `python` tools, that we used for decreasing size of our binary. Both of these are public packages installable by `pip`: 
-- `binsize` - analyting the size of symbols from .elf files - [repository](https://github.com/grdddj/binsize)
+- `binsize` - analyzing the size of symbols from .elf files - [repository](https://github.com/grdddj/binsize)
 - `upysize` - linter to find optimizations to micropython code to reduce its size - [repository](https://github.com/grdddj/upysize)
 
 ### Personal projects
