@@ -16,6 +16,7 @@ When I have time, I like working on hobby personal projects. I have done countle
 Some of the most notable are:
 
 - `OrdSimilarity` - https://ordsimilarity.com/ - a search engine for similar ordinals pictures - [repository](https://github.com/grdddj/similar-ordinals)
+- `OrdMempool` - https://ordmempool.space/ - observing BTC mempool for new ordinals - [repository](https://github.com/grdddj/ordmempool)
 - `BtcStatts` - https://btcstatts.com/ - statistics about BTC ordinals - [repository](https://github.com/grdddj/ordinals-statistics)
 - `MusilBlockchain` - https://www.musil-blockchain.cz/ - my personal website about blockchain technology from 2018 - [repository](https://github.com/grdddj/My-blockchain-page)
 - `GrdddjDashboard` - https://grdddj.eu/ - showing some of the smaller website applications in one directory
